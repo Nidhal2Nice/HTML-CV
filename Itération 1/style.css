@@ -1,0 +1,16 @@
+.title {
+    background-color: blueviolet;
+    font-family: roboto;
+}
+h1 {font-style: Roboto;
+    display: flex;
+    justify-content: center;
+}
+
+h2 {
+    style: "color:rgb(25, 250, 231);"
+}
+
+.photo1 {
+    height: 20px; weight:16; rounded: 25 rad;
+}
